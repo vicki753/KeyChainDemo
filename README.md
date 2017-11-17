@@ -5,6 +5,7 @@ refer to someone else's code:
 http://blog.csdn.net/yy1992320/article/details/51161584
 
 ###use information
+
 '''
 - UUID
 - username
@@ -22,4 +23,5 @@ Anyway you can fix it.
 you should try uninstall this app, then install it again ,to check it is still the same word in textfieldView,
 make sure the keychain is worked. 
 Thanks to read!
+
 '''
